@@ -13,6 +13,7 @@ int main(void)
 	//ブランチ確認
 	printf("ブランチ確認\n");
 	printf("ブランチ確認2\n");
+	printf("ブランチ確認3\n");
 	printf("反映テスト");
 	rewind(stdin);
 	getchar();
