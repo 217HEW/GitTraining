@@ -8,6 +8,8 @@
 
 int main(void)
 {
+	//ブランチ確認
+	printf("ブランチ確認\n");
 	printf("反映テスト");
 	rewind(stdin);
 	getchar();
